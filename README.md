@@ -1,9 +1,7 @@
 <div align=center>
-  
-### 🙌 Min Su 🙌
-<p> "기억보단 기록을" </p>
-  
-### 📚Tech Stack...📚
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MinSu%20Github!&fontSize=90" />	
+
+### 📚Tech Stack📚
   
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white">
@@ -16,17 +14,18 @@
 </br>
 </br>
 
-<p>🛠Tools🛠</p>
+### 🛠Tools🛠
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white" />
 <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
 </br>
 </br>
 
-<p>🏔GitHub Stats🏔</p>
+### 🏔GitHub Stats🏔
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PushedSu)](https://github.com/PushedSu/github-readme-stats)
-  
+
+### ✨👀
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PushedSu)](https://github.com/PushedSu/github-readme-stats)
 
 </div>
