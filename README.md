@@ -23,9 +23,10 @@
 
 ### 🏔GitHub Stats🏔
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PushedSu)](https://github.com/PushedSu/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PushedSu&theme=dark&show_icons=true)](https://github.com/PushedSu/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PushedSu&layout=compact&theme=dark&show_icons=true)
 
-### ✨👀
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PushedSu)](https://github.com/PushedSu/github-readme-stats)
+### 🔥 GitHub 통계 🔥
+[![GitHub Streak](https://streak-stats.demolab.com?user=PushedSu&locale=ko)](https://git.io/streak-stats)
 
 </div>
